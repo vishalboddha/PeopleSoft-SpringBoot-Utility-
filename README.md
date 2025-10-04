@@ -3,7 +3,11 @@ Can be deployed in any version/product of peoplesoft.
 Can speedup the process of creation Class and Interface required for springboot.
 It reads the structure of Table and genrates the code template in Java.
 
+
 After migration it will be appear as Record Code on root.
+
+Example with PS_PERSON table.
+
 Id
 <img width="2324" height="1408" alt="image" src="https://github.com/user-attachments/assets/029a41e5-68bd-4609-a9a7-fb8a5672ba5f" />
 
